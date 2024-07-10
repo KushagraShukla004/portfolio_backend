@@ -1,6 +1,6 @@
 # Portfolio Backend
 
-**NOTE**: This is a part of `portfolio_website` for integrating a seamless Backend.
+**NOTE**: This is a part of [portfolio_website](https://github.com/KushagraShukla004/portfolio_website) for integrating a seamless Backend.
 
 This repository contains the backend for my portfolio website, utilizing Sanity.io for real-time content management. The Sanity Content Studio provides a robust environment for managing content displayed on the frontend.
 
@@ -10,11 +10,11 @@ Sanity.io is a powerful and flexible content management system (CMS) that provid
 
 ## Click the link below to see the live demo:
 
-- https://kushagrashukla.netlify.app/
+- [My Portfolio](https://kushagrashukla.netlify.app/)
 
 ## Getting Started
 
-**NOTE**: Clone this repository as a different folder and NOT inside `portfolio_website`.
+**NOTE**: Clone this repository as a different folder and NOT inside [portfolio_website](https://github.com/KushagraShukla004/portfolio_website) .
 
 1. Clone the repository:
 
