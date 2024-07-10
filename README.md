@@ -16,6 +16,14 @@ Sanity.io is a powerful and flexible content management system (CMS) that provid
 
 **NOTE**: Clone this repository as a different folder and NOT inside [portfolio_website](https://github.com/KushagraShukla004/portfolio_website) .
 
+## Folder Structure
+
+```
+   portfolio
+├── portfolio_website
+└── portfolio_backend
+```
+
 1. Clone the repository:
 
    ```sh
