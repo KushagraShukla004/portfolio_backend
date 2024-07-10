@@ -1,6 +1,6 @@
 # Portfolio Backend
 
-**NOTE**: This is a part of [portfolio_website](https://github.com/KushagraShukla004/portfolio_website) for integrating a seamless Backend.
+**NOTE**: This is a part of [portfolio_website](https://github.com/KushagraShukla004/portfolio_website) **repo** for integrating a seamless Backend.
 
 This repository contains the backend for my portfolio website, utilizing Sanity.io for real-time content management. The Sanity Content Studio provides a robust environment for managing content displayed on the frontend.
 
